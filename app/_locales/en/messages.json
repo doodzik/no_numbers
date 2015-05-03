@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "no_numbers",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "blocks numbers from websites so you don't constantly measure yourself",
+    "description": "The description of the application"
+  }
+}
