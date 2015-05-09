@@ -6,6 +6,10 @@
     {
       "matches": ["https://github.com/*"],
       "css": ["css/github.css"]
+    },
+    {
+      "matches": ["https://www.tumblr.com/*"],
+      "css": ["css/tumblr.css"]
     }
   ],
   "description": "__MSG_appDescription__",
